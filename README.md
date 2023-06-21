@@ -1,0 +1,2 @@
+# Directory
+Angular first project
